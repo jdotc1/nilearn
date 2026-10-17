@@ -1,3 +1,13 @@
+.. rubric:: About this fork
+
+This is a development fork of `nilearn/nilearn <https://github.com/nilearn/nilearn>`__. Nilearn provides Python tools for analyzing brain volumes and surfaces, including general linear models, decoding, connectivity analysis, and visualization. It helps connect neuroimaging data with statistical and scikit-learn workflows, with examples for exploring both image-level and region-level questions.
+
+The fork's `upstream PR #6654 <https://github.com/nilearn/nilearn/pull/6654>`__ proposes path-component checks for archive extraction destinations. It was open on 17 October 2026 and is tracked on its linked feature branch.
+
+Begin with the `official installation guide <https://nilearn.github.io/dev/install.html>`__ and `documentation <https://nilearn.github.io/>`__ for supported workflows and dependencies. `Compare the default branch with upstream <https://github.com/jdotc1/nilearn/compare/nilearn:main...jdotc1:main>`__ to inspect the development base. The upstream README, community resources, and contribution guidance remain below.
+
+.. rubric:: Upstream README
+
 .. image:: https://img.shields.io/pypi/v/nilearn.svg
     :target: https://pypi.org/project/nilearn/
     :alt: Pypi Package
